@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+C:\ИГЭУ\Вычислительная математика\Тема 2\Простая итерация\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(15,15): warning C4101: sum2: неиспользованная локальная переменная
+C:\ИГЭУ\Вычислительная математика\Тема 2\Простая итерация\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(15,9): warning C4101: sum1: неиспользованная локальная переменная
+C:\ИГЭУ\Вычислительная математика\Тема 2\Простая итерация\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(44,67): warning C4101: tmp: неиспользованная локальная переменная
+C:\ИГЭУ\Вычислительная математика\Тема 2\Простая итерация\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(44,59): warning C4101: deltat: неиспользованная локальная переменная
+  ConsoleApplication1.vcxproj -> C:\ИГЭУ\Вычислительная математика\Тема 2\Простая итерация\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
